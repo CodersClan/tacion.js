@@ -8,6 +8,12 @@ Currently, [the only example](http://azoff.github.com/tacion.js/examples/spain.j
 
 - [Spain.JS Presentation](http://azoff.github.com/tacion.js/examples/spain.js)
 
+Support
+-------
+If you're having problems with using the project, use the support forum at CodersClan.
+
+<a href="http://codersclan.net/forum/index.php?repo_id=20"><img src="http://www.codersclan.net/graphics/getSupport_blue_big.png" width="160"></a>
+
 Licensing
 ---------
 Tacion is licensed to be compatible with jQuery, and hence is dual-licensed under the same licenses:
